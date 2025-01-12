@@ -12,7 +12,7 @@ title                    : "Vinay Kumar"
 title_separator          : "-"
 name                     : &name "Vinay Kumar"
 description              : &description "Hi! I'm Vinay Kumar, a dedicated Ph.D. scholar in Computer Science at South Asian University, New Delhi. My research focuses on advancing optical networking technologies, specifically in areas like QoS-aware protocols, optimization, and distributed resource allocation. I am passionate about solving real-world problems through innovative solutions in spectrally-spatially elastic optical networks. Beyond academics, I enjoy collaborating with like-minded professionals, mentoring students, and contributing to groundbreaking projects. With a strong foundation in computer science, I aim to bridge the gap between theoretical research and practical applications, ensuring impactful contributions to the field. When I’m not working, you’ll find me exploring new technologies, reading about quantum networking, or participating in tech communities. Let’s connect and create something incredible together!"
-url                      : https://vinay25sep.github.io/vinaykr/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+URL                      : "https://vinay25sep.github.io/vinaykr/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vinay25sep.github.io/vinaykr/"
 
